@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @soumya23463
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...mca
+- 🌱 I have done mca
+- i am working in westonik company at full stack web development
 
 
 <!---
